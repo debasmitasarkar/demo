@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "planets":[  
+      {  
+         "planetName":"Mars",
+         "planetLocation":"milkyway galaxy",
+         "image":"mars.png"
+      },
+      {  
+         "planetName":"Earth",
+         "planetLocation":"milkyway galaxy",
+         "earth":"earth.png"
+      },
+      {  
+         "planetName":"Mercury",
+         "planetLocation":"milkyway galaxy",
+         "image":"mercury.png"
+      },
+      {  
+         "planetName":"Moon",
+         "planetLocation":"milkyway galaxy",
+         "image":"moon.png"
+      },
+      {  
+         "planetName":"Nepture",
+         "planetLocation":"milkyway galaxy",
+         "image":"neptune.png"
+      }
+   ]
 }
